@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">NewsApplication</string>
+  <string name="error">Something went wrong</string>
+  <string name="please_wait">Please wait</string>
+  <string name="todays_news">Latest News</string>
+  <string name="news_detail">News Detail</string>
+</resources>
